@@ -1,2 +1,2 @@
 # morechato
-a simple chhatting app. with makes use of firebase realtime database.
+a simple chatting app. with makes use of firebase realtime database.
